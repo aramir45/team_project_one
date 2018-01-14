@@ -1,4 +1,3 @@
-|name|
-|:---:|
-|cats|
-|colors|
+|name||color||age|
+|:---:||:--:||:--:|
+|cats||colors|
